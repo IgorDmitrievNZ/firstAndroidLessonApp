@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">firstAndroidLesson</string>
+    <string name="ems" translatable="false">"The EMS is simply the font size. In an element with a 2in font, 1em thus means 2in. Expressing sizes, such as margins and paddings, in em means they are related to the font size, and if the user has a big font (e.g., on a big screen) or a small font (e.g., on a handheld device), the sizes will be in proportion. Declarations such as 'text-indent: 1.5em' and 'margin: 1em' are extremely common in CSS."</string>
 </resources>
